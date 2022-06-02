@@ -1,0 +1,240 @@
+.map {
+
+	height: 600px;
+	width: auto;
+    margin-top: 50px;
+}
+
+.form {
+	background-color: #f9f9f9;
+	padding: 20px;
+	margin: 20px;
+}
+
+.map_balloon {
+	padding: 5px;
+	font-size: 20px;
+	line-height: 1;
+	color: #333;
+	border-radius: 20px;
+}
+
+.map_img {
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+.contact{
+    background-color: #f7654a;
+    color: #fff;
+
+}
+
+.banner{
+    background-color: #f7654a;
+    color: #fff;
+    
+}
+
+.box-banner1{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+	margin: -5px;
+}
+
+.box-banner{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+	padding: 20px 0 20px;
+}
+
+.box-banner h3{
+    font-size: 48px;
+    letter-spacing: 2px;
+    margin-top: 0;
+    margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.box-banner1 h3{
+    font-size: 48px;
+    letter-spacing: 2px;
+    margin-top: 0;
+    margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.footer-contact{
+	align-items: flex-start;
+	margin-top: 61px;
+	flex-wrap: wrap;
+}
+
+.footer-contact > div{
+	flex-basis: 49%;
+	max-width: 49%;
+	margin-bottom: 20px;
+}
+
+.footer-contact h3, .footer-contact-info{
+	font-size: 20px;
+}
+
+.footer-contact-info > li{
+	margin-bottom: 5px;
+}
+
+.footer{
+	margin-top: 32px;
+}
+
+
+
+.wrapper{
+    max-width: 1110px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.map_info h2, p{
+    text-align: center;
+    font-size: 25px;
+}
+
+.search{
+    text-align: center;
+}
+
+.found{
+    text-align: center;
+}
+
+.search a{
+    color: #FF0000;
+}
+
+.found a{
+    color: #44944A; 
+}
+
+.map_info h2{
+font-size: 40px;
+}
+
+.bg{
+    background-image: url(../img/dog.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    height: 60vh;
+    position: relative;
+    z-index: -1;
+}
+
+.box-party{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 56px;
+    margin-bottom: 85px;
+    
+}
+
+.box-party > div{
+    flex-basis: 31.5%;
+    max-width: 31.5%;
+}
+
+.box-party img{
+    width: 100%;
+}
+
+.footer-contact{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-align: center;
+    margin-top: 61px;
+}
+
+.footer-contact > div{
+    flex-basis: 24%;
+    max-width: 24%;
+}
+
+.footer-contact h3{
+    color: #999999;
+    font-size: 24px;
+}
+
+.footer-contact-info{
+    list-style: none;
+    padding-left: 0;
+    font-size: 24px;
+    color: #000;
+}
+
+.footer-contact-info > li{
+    margin-bottom: 12px;
+}
+
+.footer{
+    background: #404149;
+    padding: 30px 0 28px;
+    margin-top: 129px;
+}
+
+.a{
+    color: #f7654a;
+}
+
+.box-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    font-size: 16px;
+}
+
+.box-footer a{
+    color: #f7654a;
+    text-decoration: none;
+}
+
+.box-banner2{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+	padding: 20px 0 20px;
+    margin-top: 100px;
+}
+
+.box-banner2 h3{
+    font-size: 48px;
+    letter-spacing: 2px;
+    margin-top: 0;
+    margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.search{
+    margin-left: 250px;
+}
+
+.found{
+    margin-right: 250px;
+}
+
